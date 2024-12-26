@@ -1,4 +1,4 @@
-## Hi there 👋 soy Santiago Sagua
+## Hi there 👋
 
 <h2>Acerca de mí</h2>
 <p align="left">
